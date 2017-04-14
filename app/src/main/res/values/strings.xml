@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Я Переводчик</string>
+    <string name="title_home">Перевод</string>
+    <string name="title_dashboard">История</string>
+    <string name="title_notifications">Избранное</string>
+    <string name="link"><a href="http://translate.yandex.ru">Переведено сервисом «Яндекс.Переводчик»</a></string>
+    <string name="ya_key">trnsl.1.1.20170315T190158Z.bbcaf8c0fac5465a.e6cd5edd2f6a5e051157fd1ad697726b216794d6</string>
+    <string-array name="lang_spisok">
+        <item>en-Английский</item>
+        <item>ru-Русский</item>
+        <item>az-Азербайджанский</item>
+        <item>sq-Албанский</item>
+        <item>am-Амхарский</item>
+        <item>ar-Арабский</item>
+        <item>hy-Армянский</item>
+        <item>af-Африкаанс</item>
+        <item>eu-Баскский</item>
+        <item>ba-Башкирский</item>
+        <item>be-Белорусский</item>
+        <item>bn-Бенгальский</item>
+        <item>bg-Болгарский</item>
+        <item>bs-Боснийский</item>
+        <item>cy-Валлийский</item>
+        <item>hu-Венгерский</item>
+        <item>vi-Вьетнамский</item>
+        <item>ht-Гаитянский (Креольский)</item>
+        <item>gl-Галисийский</item>
+        <item>nl-Голландский</item>
+        <item>mrj-Горномарийский</item>
+        <item>el-Греческий</item>
+        <item>ka-Грузинский</item>
+        <item>gu-Гуджарати</item>
+        <item>da-Датский</item>
+        <item>he-Иврит</item>
+        <item>yi-Идиш</item>
+        <item>id-Индонезийский</item>
+        <item>ga-Ирландский</item>
+        <item>it-Итальянский</item>
+        <item>is-Исландский</item>
+        <item>es-Испанский</item>
+        <item>kk-Казахский</item>
+        <item>kn-Каннада</item>
+        <item>ca-Каталанский</item>
+        <item>ky-Киргизский</item>
+        <item>zh-Китайский</item>
+        <item>ko-Корейский</item>
+        <item>xh-Коса</item>
+        <item>la-Латынь</item>
+        <item>lv-Латышский</item>
+        <item>lt-Литовский</item>
+        <item>lb-Люксембургский</item>
+        <item>mg-Малагасийский</item>
+        <item>ms-Малайский</item>
+        <item>ml-Малаялам</item>
+        <item>mt-Мальтийский</item>
+        <item>mk-Македонский</item>
+        <item>mi-Маори</item>
+        <item>mr-Маратхи</item>
+        <item>mhr-Марийский</item>
+        <item>mn-Монгольский</item>
+        <item>de-Немецкий</item>
+        <item>ne-Непальский</item>
+        <item>no-Норвежский</item>
+        <item>pa-Панджаби</item>
+        <item>pap-Папьяменто</item>
+        <item>fa-Персидский</item>
+        <item>pl-Польский</item>
+        <item>pt-Португальский</item>
+        <item>ro-Румынский</item>
+        <item>ceb-Себуанский</item>
+        <item>sr-Сербский</item>
+        <item>si-Сингальский</item>
+        <item>sk-Словацкий</item>
+        <item>sl-Словенский</item>
+        <item>sw-Суахили</item>
+        <item>su-Сунданский</item>
+        <item>tg-Таджикский</item>
+        <item>th-Тайский</item>
+        <item>tl-Тагальский</item>
+        <item>ta-Тамильский</item>
+        <item>tt-Татарский</item>
+        <item>te-Телугу</item>
+        <item>tr-Турецкий</item>
+        <item>udm-Удмуртский</item>
+        <item>uz-Узбекский</item>
+        <item>uk-Украинский</item>
+        <item>ur-Урду</item>
+        <item>fi-Финский</item>
+        <item>fr-Французский</item>
+        <item>hi-Хинди</item>
+        <item>hr-Хорватский</item>
+        <item>cs-Чешский</item>
+        <item>sv-Шведский</item>
+        <item>gd-Шотландский</item>
+        <item>et-Эстонский</item>
+        <item>eo-Эсперанто</item>
+        <item>jv-Яванский</item>
+        <item>ja-Японский</item>
+    </string-array>
+</resources>
